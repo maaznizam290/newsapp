@@ -7,6 +7,7 @@ import Details from '../screen/deatail';
 function AppRouter() {
     return (
         <div>
+            <>hello</>
             <Router>
                 <Routes>
                     <Route path='/' element={<Data />} />
